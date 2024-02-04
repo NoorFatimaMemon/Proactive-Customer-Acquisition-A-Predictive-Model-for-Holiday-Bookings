@@ -1,0 +1,2 @@
+# Proactive-Customer-Acquisition-A-Predictive-Model-for-Holiday-Bookings
+In this project, the dataset was thoroughly explored, new features were crafted, and a RandomForest model was trained to predict holiday bookings. Evaluation metrics and insightful visualizations were harnessed to present a concise summary on a single slide, empowering proactive customer acquisition strategies in the travel industry.
